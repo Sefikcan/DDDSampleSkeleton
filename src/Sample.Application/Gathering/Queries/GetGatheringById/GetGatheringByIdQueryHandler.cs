@@ -27,11 +27,12 @@ internal sealed class GetGatheringByIdQueryHandler : IQueryHandler<GetGatheringB
             gathering.Name,
             gathering.Location,
             $"{gathering.Member.FirstName.Value}" + $"{gathering.Member.LastName.Value}",
-            gathering.Attendees().Select(attendee => new AttendeeResponse(
+            gathering.Attendees
+                .Select(attendee => new AttendeeResponse(
                 attendee.MemberId,
                 attendee.CreatedOnUtc
                 )).ToList(),
-            gathering.Invitations()
+            gathering.Invitations
                 .Select(invitation => new InvitationResponse(
                     invitation.Id,
                     invitation.InvitationStatus

@@ -19,12 +19,12 @@ internal sealed class GatheringConfiguration : IEntityTypeConfiguration<Gatherin
             .WithMany();
 
         builder
-            .HasMany(x => x.Invitations())
+            .HasMany(x => x.Invitations)
             .WithOne()
             .HasForeignKey(x => x.GatheringId);
 
         builder
-            .HasMany(x => x.Attendees())
+            .HasMany(x => x.Attendees)
             .WithOne()
             .HasForeignKey(x => x.GatheringId);
     }

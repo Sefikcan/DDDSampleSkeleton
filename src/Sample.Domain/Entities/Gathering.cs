@@ -40,15 +40,9 @@ public sealed class Gathering : AggregateRoot
 
     public bool Cancelled { get; private set; }
 
-    public IReadOnlyCollection<Attendee> Attendees()
-    {
-        return _attendees;
-    }
+    public IReadOnlyCollection<Attendee> Attendees => _attendees;
 
-    public IReadOnlyCollection<Invitation> Invitations()
-    {
-        return _invitations;
-    }
+    public IReadOnlyCollection<Invitation> Invitations => _invitations;
 
     public static Gathering Create(Guid id, 
         Member member, 

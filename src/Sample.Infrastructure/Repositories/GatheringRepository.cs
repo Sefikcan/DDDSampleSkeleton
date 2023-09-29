@@ -17,7 +17,7 @@ public sealed class GatheringRepository : IGatheringRepository
     {
         return await _dbContext.Set<Gathering>()
             .Include(gathering => gathering.Member)
-            .Include(gathering => gathering.Attendees())
+            .Include(gathering => gathering.Attendees)
             .Where(gathering => string.IsNullOrEmpty(name))
             .OrderBy(gathering => gathering.Name)
             .ToListAsync(cancellationToken);
@@ -27,8 +27,8 @@ public sealed class GatheringRepository : IGatheringRepository
     {
         return await _dbContext.Set<Gathering>()
             .Include(gathering => gathering.Member)
-            .Include(gathering => gathering.Attendees())
-            .Include(gathering => gathering.Invitations())
+            .Include(gathering => gathering.Attendees)
+            .Include(gathering => gathering.Invitations)
             .Where(x => x.Cancelled)
             .FirstOrDefaultAsync(gathering => gathering.Id == id, cancellationToken);
     }
