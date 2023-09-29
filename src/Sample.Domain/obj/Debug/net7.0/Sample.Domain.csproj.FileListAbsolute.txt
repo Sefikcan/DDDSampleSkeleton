@@ -1,0 +1,12 @@
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/bin/Debug/net7.0/Sample.Domain.deps.json
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/bin/Debug/net7.0/Sample.Domain.dll
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/bin/Debug/net7.0/Sample.Domain.pdb
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/obj/Debug/net7.0/Sample.Domain.csproj.AssemblyReference.cache
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/obj/Debug/net7.0/Sample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/obj/Debug/net7.0/Sample.Domain.AssemblyInfoInputs.cache
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/obj/Debug/net7.0/Sample.Domain.AssemblyInfo.cs
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/obj/Debug/net7.0/Sample.Domain.csproj.CoreCompileInputs.cache
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/obj/Debug/net7.0/Sample.Domain.dll
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/obj/Debug/net7.0/refint/Sample.Domain.dll
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/obj/Debug/net7.0/Sample.Domain.pdb
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/obj/Debug/net7.0/ref/Sample.Domain.dll

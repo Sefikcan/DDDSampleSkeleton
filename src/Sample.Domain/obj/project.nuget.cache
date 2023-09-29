@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bu4WyiNfnjgbHnKmt6+6J2mnOxUCitYpxeAE47nWv+eQyqtGg+cRWg8ojrm4OUxRncbOJZBxfGwpVtnTOIBs/g==",
+  "success": true,
+  "projectFilePath": "/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Domain/Sample.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/sefikcankanber/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/sefikcankanber/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/sefikcankanber/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

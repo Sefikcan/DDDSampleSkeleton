@@ -1,0 +1,17 @@
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/bin/Debug/net7.0/Sample.Infrastructure.deps.json
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/bin/Debug/net7.0/Sample.Infrastructure.runtimeconfig.json
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/bin/Debug/net7.0/Sample.Infrastructure.dll
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/bin/Debug/net7.0/Sample.Infrastructure.pdb
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/bin/Debug/net7.0/Sample.Domain.dll
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/bin/Debug/net7.0/Sample.Domain.pdb
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/obj/Debug/net7.0/Sample.Infrastructure.csproj.AssemblyReference.cache
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/obj/Debug/net7.0/Sample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/obj/Debug/net7.0/Sample.Infrastructure.AssemblyInfoInputs.cache
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/obj/Debug/net7.0/Sample.Infrastructure.AssemblyInfo.cs
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/obj/Debug/net7.0/Sample.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/obj/Debug/net7.0/Sample.Infrastructure.csproj.CopyComplete
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/obj/Debug/net7.0/Sample.Infrastructure.dll
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/obj/Debug/net7.0/refint/Sample.Infrastructure.dll
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/obj/Debug/net7.0/Sample.Infrastructure.pdb
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/obj/Debug/net7.0/Sample.Infrastructure.genruntimeconfig.cache
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Infrastructure/obj/Debug/net7.0/ref/Sample.Infrastructure.dll

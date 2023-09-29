@@ -1,0 +1,15 @@
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/bin/Debug/net7.0/Sample.Application.deps.json
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/bin/Debug/net7.0/Sample.Application.dll
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/bin/Debug/net7.0/Sample.Application.pdb
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/bin/Debug/net7.0/Sample.Domain.dll
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/bin/Debug/net7.0/Sample.Domain.pdb
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/obj/Debug/net7.0/Sample.Application.csproj.AssemblyReference.cache
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/obj/Debug/net7.0/Sample.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/obj/Debug/net7.0/Sample.Application.AssemblyInfoInputs.cache
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/obj/Debug/net7.0/Sample.Application.AssemblyInfo.cs
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/obj/Debug/net7.0/Sample.Application.csproj.CoreCompileInputs.cache
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/obj/Debug/net7.0/Sample.Application.csproj.CopyComplete
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/obj/Debug/net7.0/Sample.Application.dll
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/obj/Debug/net7.0/refint/Sample.Application.dll
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/obj/Debug/net7.0/Sample.Application.pdb
+/Users/sefikcankanber/Desktop/Workspaces/DDDSampleSkeleton/src/Sample.Application/obj/Debug/net7.0/ref/Sample.Application.dll

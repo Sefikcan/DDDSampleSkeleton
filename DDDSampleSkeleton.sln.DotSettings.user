@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=550ef4b1_002D7681_002D4bf1_002D9a36_002D538489abee91/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Domain_Should_Not_HaveDependencyOnOtherProjects" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::94A8BB54-0E9F-4110-B095-FA6602FBEBB3::net7.0::Sample.Architecture.UnitTests.ArchitectureTests.Domain_Should_Not_HaveDependencyOnOtherProjects&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::94A8BB54-0E9F-4110-B095-FA6602FBEBB3::net7.0::Sample.Architecture.UnitTests.ArchitectureTests.Application_Should_Not_HaveDependencyOnOtherProjects&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::94A8BB54-0E9F-4110-B095-FA6602FBEBB3::net7.0::Sample.Architecture.UnitTests.ArchitectureTests.Infrastructure_Should_Not_HaveDependencyOnOtherProjects&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::94A8BB54-0E9F-4110-B095-FA6602FBEBB3::net7.0::Sample.Architecture.UnitTests.ArchitectureTests.Handlers_Should_Have_DependencyOnDomain&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3865638B-A4BD-4A01-8321-53E756AEFBD5::net7.0::Sample.Application.UnitTests.Members.Commands.CreateMemberCommandHandlerTests.Handle_Should_ReturnFailureResult_WhenEmailIsNotUnique&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3865638B-A4BD-4A01-8321-53E756AEFBD5::net7.0::Sample.Application.UnitTests.Members.Commands.CreateMemberCommandHandlerTests.Handle_Should_CallAddOnRepository_WhenEmailIsUnique&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3865638B-A4BD-4A01-8321-53E756AEFBD5::net7.0::Sample.Application.UnitTests.Members.Commands.CreateMemberCommandHandlerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
